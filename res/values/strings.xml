@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meaningless App</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_button">My Texts</string>
+    <string name="web_button">Access Web Resource</string>
+    <string name="map_button">View Map</string>
+    <string name="title_activity_text">Texts</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_download">Download</string>
+    <string name="text_hint">Enter text here</string>
+    <string name="save_button">Save</string>
+    <string name="my_texts">My Texts</string>
+    <string name="delete_text">Delete</string>
+
+</resources>
